@@ -49,3 +49,4 @@ shapes = [
 
 for shape in shapes:
     shape.info()
+
